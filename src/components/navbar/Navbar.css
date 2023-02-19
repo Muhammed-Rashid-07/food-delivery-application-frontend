@@ -1,0 +1,10 @@
+.logo{
+    font-family: 'Solitreo', cursive;
+}
+
+*{
+    color:whitesmoke;
+}
+nav{
+    position: fixed;
+}
